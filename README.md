@@ -1,10 +1,10 @@
 ### hey, i'm srijit
 
-2nd year ECE at the University of Toronto. [Schulich Leader Scholar](https://www.schulichleaders.com/).
+2nd year ECE at the University of Toronto and [Schulich Leader Scholar](https://www.schulichleaders.com/).
 
 **currently:**
 - Research @ Harvard - Goldenberg Lab
-- Co-founder @ [Axon Solutions](https://axonsolutions.ca) - the first AI-driven influencer marketing agency, working with brands like SHEIN, Sony Music, TikTok
+- Co-founder @ [Axon Solutions](https://axonsolutions.ca) - the first AI-driven influencer marketing agency
 
 **previously:**
 - Engineering @ [Polymarket](https://polymarket.com)
@@ -17,6 +17,6 @@
 - [diffusion-tinker](https://github.com/srijitiyer/diffusion-tinker) - RL-based post-training for diffusion models
 - [maxtoki-mlx](https://github.com/srijitiyer/maxtoki-mlx) - Apple Silicon MLX port of MaxToki, temporal cell aging model (Gladstone + NVIDIA)
 
-**interests:** mechanistic interpretability, computational neuroscience, quantitative finance, network science, RL
+**interests:** mechanistic interpretability, computational neuroscience, quantitative finance, RL
 
 [srijitiyer.com](https://srijitiyer.com) · [@srijitiyer](https://twitter.com/srijitiyer)
