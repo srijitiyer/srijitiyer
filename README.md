@@ -3,11 +3,12 @@
 2nd year ECE at the University of Toronto and [Schulich Leader Scholar](https://www.schulichleaders.com/).
 
 **currently:**
-- Research @ Harvard - Goldenberg Lab
-- Co-founder @ [Axon Solutions](https://axonsolutions.ca) - the first AI-driven influencer marketing agency
+- Research @ Stanford AI Lab
 
 **previously:**
+- Quantitative Research Intern @ AGF Investments
 - Engineering @ [Polymarket](https://polymarket.com)
+- Research @ Harvard - Goldenberg Lab
 - Research with Stephen Wolfram on LLM randomness
 - Built and ran a six-figure influencer management agency starting at 14, managing creators with millions of followers
 
